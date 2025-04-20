@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\example
+
+C:\Program Files (x86)\Steam\logs
+
