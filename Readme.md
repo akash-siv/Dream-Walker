@@ -3,6 +3,8 @@
 ## Project Summary
 This project presents a low-cost wearable leg device leveraging embedded Tiny Machine Learning (TinyML) to mitigate Virtual Reality (VR) motion sickness by enabling standing-based locomotion control.
 
+[![Video Title](https://img.youtube.com/vi/UUx8eebDtmY/0.jpg)](https://www.youtube.com/watch?v=UUx8eebDtmY)
+
 ## Main Contributions
 - Custom IMU dataset collected from 4 participants.
 - Preprocessing using frequency-domain (FFT) and statistical feature extraction.
